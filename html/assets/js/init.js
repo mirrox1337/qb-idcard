@@ -4,7 +4,8 @@ $(document).ready(function(){
   window.addEventListener('message', function( event ) {
     if (event.data.status == 'open') {
       var sex = event.data.information.gender
-      $("#name").html(event.data.information.name);
+      $("#firstname").html(event.data.information.firstname);
+      $("#lastname").html(event.data.information.lastname);
       $("#sex").html(event.data.information.gender);
       $("#dob").html(event.data.information.dob);
       $("#nationality").html(event.data.information.nationality);

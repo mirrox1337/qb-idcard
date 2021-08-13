@@ -24,6 +24,7 @@ files {
 	'html/assets/fonts/roboto/*.woff',
 	'html/assets/fonts/roboto/*.woff2',
 	'html/assets/fonts/justsignature/JustSignature.woff',
+	'html/assets/fonts/tratex/TRATS.TTF',
 	'html/assets/images/*.png'
 }
 

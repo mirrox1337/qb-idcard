@@ -1,10 +1,11 @@
 @font-face {
-  font-family: justsignature;
-  src: url('../fonts/justsignature/JustSignature.woff');
+  font-family: tratex;
+  src: url('../fonts/tratex/TRATS.TTF');
 }
 body, html {
   width: 100%;
   height: 100%;
+  font-family: tratex;
 }
 p {
   padding: 0;
@@ -12,12 +13,19 @@ p {
   text-transform: uppercase;
   color: rgb(40, 40, 40);
   font-size: 14px;
+  font-family: tratex;
 }
 
-#name {
+#firstname {
   color: rgb(40, 40, 40);
-  text-align: center;
-  margin-top: 14px;
+  margin-top: 10px;
+  margin-left: -128px;
+}
+
+#lastname {
+  color: rgb(40, 40, 40);
+  margin-top: -4px;
+  margin-left: -128px;
 }
 
 #id-card {
@@ -36,11 +44,6 @@ img {
   left:7px;
   top:5px;
 }
-#name {
-  font-weight: bolder;
-  font-size: 18px;
-  color: #282828;
-}
 #inline {
   position: absolute;
   top: 127px;
@@ -48,19 +51,21 @@ img {
 
 #dob {
   position: absolute;
-  left: 43px;
+  left: 10px;
+  bottom: -7px;
   width: 100px;
 }
 
 #sex {
   position: absolute;
-  left: 137px;
+  bottom: 25px;
 }
 
 #nationality {
   position: absolute;
-  left: 223px;
+  left: 80px;
   width: 60px;
+  bottom: 25px;
 }
 
 .hidden {
