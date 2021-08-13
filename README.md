@@ -2,13 +2,11 @@
 ###### Dependencies
 [qb-core](https://github.com/qbcore-framework/qb-core)
 
-+ simple id card
-+ use item and exit with backspace
-+ thanks for the design, Buzzee
++ Simple id card
++ Use item and exit with backspace
++ Thanks for the design, https://github.com/jonassvensson4/jsfour-legitimation
 
-![Image](https://i.hizliresim.com/i3ou4d3.png)
-![Image](https://i.hizliresim.com/ey48nby.png)
-![Image](https://i.hizliresim.com/6xgo0v0.png)
+![Image](https://i.imgur.com/AQscNSQ.png)
 
 
 # you can use this instead of loop
