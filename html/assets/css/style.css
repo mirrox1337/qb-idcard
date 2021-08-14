@@ -12,19 +12,20 @@ p {
   margin: 0;
   text-transform: uppercase;
   color: rgb(40, 40, 40);
-  font-size: 14px;
+  font-size: 10px;
   font-family: tratex;
+  font-weight: bold;
 }
 
 #firstname {
   color: rgb(40, 40, 40);
-  margin-top: 10px;
+  margin-top: 15px;
   margin-left: -128px;
 }
 
 #lastname {
   color: rgb(40, 40, 40);
-  margin-top: -4px;
+  margin-top: 0px;
   margin-left: -128px;
 }
 
@@ -51,21 +52,22 @@ img {
 
 #dob {
   position: absolute;
-  left: 10px;
-  bottom: -7px;
+  left: 8px;
+  bottom: -2px;
   width: 100px;
 }
 
 #sex {
   position: absolute;
-  bottom: 25px;
+  bottom: 29px;
+  left: 8px;
 }
 
 #nationality {
   position: absolute;
   left: 80px;
   width: 60px;
-  bottom: 25px;
+  bottom: 29px;
 }
 
 .hidden {
