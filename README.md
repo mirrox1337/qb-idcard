@@ -6,7 +6,8 @@
 + Use item and exit with backspace
 + Thanks for the design, https://github.com/jonassvensson4/jsfour-legitimation
 
-![Image](https://i.imgur.com/AQscNSQ.png)
+![Image](https://i.imgur.com/s5VfWNV.jpeg)
+![Image](https://i.imgur.com/TvW2vcr.png)
 
 
 # you can use this instead of loop
